@@ -31,15 +31,15 @@ const USER_CONFIG = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting: true,
     // 毒鸡汤
-    poisonChickenSoup: false,
+    poisonChickenSoup: true,
     // 古诗古文
-    poetry: false,
+    poetry: true,
 
     /** 星座运势 */
     horoscope: false,
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oT5x75i7djx0yB-iFfKZRmiJEjFY',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'by601TLX0Ofhp6ThJVQiX7JXVljcVFlzlxgG3bKCREQ',
+      useTemplateId: '6JhpfuuI1JdJHIvOZkzEq9eh-hDRbBRXXu-AQ0naZOg',
       // 所在省份
       province: '上海',
       // 所在城市
